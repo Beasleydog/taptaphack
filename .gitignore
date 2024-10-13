@@ -1,0 +1,4 @@
+env/
+bounding_boxes.json
+bounding_boxes_2.json
+.env
